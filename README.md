@@ -39,6 +39,3 @@ AppRegistry.registerComponent('HelloWorld', () => HelloWorldApp);
 // The ReactJS code can also be imported into another component with the following code:
 
 import HelloWorldApp from './HelloWorldApp';
-
-Hi, I'm testing GitHub services 
-// Artis Svoks, 27/09/2019
