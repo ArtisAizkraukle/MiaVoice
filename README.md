@@ -12,30 +12,3 @@
   All that stuff works on 506625 Pa hydraulic, 12 V battery's, and a lot of magnetic relays, only one electric pump.
 
   # Mia Voice wake up you at Monday mornings & helps you with your daily cares.
-  
-  # React Native
-  
-  One single code for all platforms. And a nice, readable, abstract style. 
-  
-  # Hello World Example
-  
-  A Hello, World program in React Native looks like this:
-
-import React, { Component } from 'react';
-import { AppRegistry, Text } from 'react-native';
-
-export default class HelloWorldApp extends Component {
-  render() {
-    return (
-      < Text >Hello world!< /Text >
-    );
-  }
-}
-
-// Skip this line if using Create React Native App
-
-AppRegistry.registerComponent('HelloWorld', () => HelloWorldApp);
-
-// The ReactJS code can also be imported into another component with the following code:
-
-import HelloWorldApp from './HelloWorldApp';
