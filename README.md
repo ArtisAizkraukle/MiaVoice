@@ -11,4 +11,4 @@
   We need: room 3m x 7m x 2,55m (x,y,z) ass a standard room for these technologies;
   All that stuff works on 506625 Pa hydraulic, 12 V battery's, and a lot of magnetic relays, only one electric pump.
 
-  # Mia Voice wake up you at Monday mornings & helps you with your daily cares.
+  # Mia Voice wake up you at Monday morning & helps you with your daily cares.
