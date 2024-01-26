@@ -4,13 +4,12 @@ import tw from 'twrnc';
 import Header from "../components/Header";
 import Body from "../components/Body";
 import Footer from "../components/Footer";
-import { BG_IMG_URI } from "@env";
 
 const HomeScreen = () => {
 	return (
 
 		<SafeAreaView style={tw`h-full`}>
-			<ImageBackground source={require(BG_IMG_URI)} resizeMode="cover" style={styles.image}>
+			<ImageBackground source={require('../assets/images/bg.png')} resizeMode="cover" style={styles.image}>
 				<Header />
 				<Body />
 				<Footer />
